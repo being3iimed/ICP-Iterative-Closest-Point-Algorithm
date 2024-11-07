@@ -25,8 +25,8 @@ To run this project locally, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/yourusername/ICP-PointCloud-Alignment.git
-cd ICP-PointCloud-Alignment
+git clone [https://github.com/being3iimed/IterativeClosestPoint.git]
+cd IterativeClosestPoint
 
 Install dependencies: This project requires numpy, matplotlib, and scipy for numerical and plotting operations. You can install them using pip:
 
