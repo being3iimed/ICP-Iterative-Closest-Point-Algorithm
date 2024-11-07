@@ -13,7 +13,7 @@ This repository contains a Jupyter Notebook implementation of the **Iterative Cl
 ## How to Use
 1. **Clone this repository** to your local machine.
 2. Install the necessary dependencies (such as `numpy`, `scipy`, `matplotlib`, and `ipympl`).
-3. Open the notebook (`ICP_Algorithm.ipynb`) and run the cells to load point clouds and apply the ICP algorithm.
+3. Open the notebook (`SVD_based_ICP.ipynb`) and run the cells to load point clouds and apply the ICP algorithm.
 
 ---
 
@@ -21,12 +21,12 @@ This repository contains a Jupyter Notebook implementation of the **Iterative Cl
 
 The **Iterative Closest Point (ICP)** algorithm iteratively refines the alignment of two point clouds. At each iteration, the algorithm:
 
-For more information on ICP, check out the [ICP Wikipedia page](https://en.wikipedia.org/wiki/Iterative_closest_point).
+
 
 ### SVD-based ICP
 The SVD-based ICP algorithm computes the optimal transformation (rotation and translation) using Singular Value Decomposition (SVD) to minimize the least-squares error between corresponding points in the source and target point clouds.
 
-Learn more about SVD-based ICP in the following resources:
+Learn more about ICP in the following resources:
 - [ICP on Wiki](https://en.wikipedia.org/wiki/Iterative_closest_point)
 
 ---
