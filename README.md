@@ -12,7 +12,7 @@ This repository contains a Jupyter Notebook implementation of the **Iterative Cl
 
 ## How to Use
 1. **Clone this repository** to your local machine.
-2. Install the necessary dependencies (such as `numpy`, `scipy`, `matplotlib`, and `ipympl`).
+2. Install the necessary dependencies (such as `numpy`, `matplotlib`, and `ipympl`).
 3. Open the notebook (`SVD_based_ICP.ipynb`) and run the cells to load point clouds and apply the ICP algorithm.
 
 ---
